@@ -52,7 +52,7 @@ The Tableau dashboard includes:
 
 ## Dashboard Preview
 
-![Airline Customer Experience Dashboard](Airline_Dashboard.png)
+![Airline Customer Experience Dashboard](https://github.com/snehalkadtan-cloud/Airline-Customer-Experience-Analytics/blob/main/Airline-Customer-Experience-Analytics.png.png)
 
 ## Interactive Tableau Dashboard
 
